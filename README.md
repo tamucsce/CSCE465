@@ -36,10 +36,10 @@ By the end of this course, students will be able to reason about systems from th
  
   <thead>
     <tr>
-      <th width=20%> Week </th>
-      <th width=30%> Topic </th>
-      <th width=50%> Required Reading</th>
-      <th width=30%> Assignment </th>
+      <th style="width: 20%;"> Week </th>
+      <th style="width: 50%;"> Topic </th>
+      <th style="width: 30%;"> Required Reading</th>
+      <th style="width: 30%;"> Assignment </th>
     </tr>
   </thead>
   
