@@ -34,7 +34,6 @@ A >= 900 points B = 800-899 points C = 700-799 points D = 600-699 points F = <60
 
 **Honors project:** If you are in the CSCE 465 honors section, you have to take this option. If you are in normal sections, you may request this option. Form a team (up to 3 members) to do an honors project, in which you design/implement/evaluate some useful and new attack/defense/system/tool/service/user study, etc. If you take this option, it replaces HW 6 and the final exam. Talk to me ASAP if you want to take this option.
 
-[comment]: <> (Use raw html for 'merge lines' feature, could switch to markdown tables for simplicity)
 ## Schedule (tentative)
 
 <table>
