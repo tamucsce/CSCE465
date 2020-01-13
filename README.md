@@ -84,7 +84,7 @@ AlephOne paper </td>
       <td>7 (Feb. 25)   </td>
       <td>Malware, <b>MIDTERM EXAM</b> </td>
       <td>GT Ch. 4 </td>
-      <td></td>
+      <td>MIDTERM Thu Feb 27</td>
     </tr>
     <tr>
       <td>8 (Mar. 3)   </td>
