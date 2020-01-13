@@ -88,7 +88,7 @@ AlephOne paper </td>
     <tr>
       <td>7 (Feb. 25)   </td>
       <td>Malware, <b>MIDTERM EXAM</b> </td>
-      <td>GT Ch. 1 Thompson paper </td>
+      <td>GT Ch. 4 </td>
       <td></td>
     </tr>
     <tr>
