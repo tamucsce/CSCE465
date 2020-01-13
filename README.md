@@ -32,8 +32,7 @@ By the end of this course, students will be able to reason about systems from th
 
 ## Schedule (tentative)
 
-<table>
- 
+<table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
       <th style="width: 20%;"> Week </th>
