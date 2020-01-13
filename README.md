@@ -1,5 +1,5 @@
 ## Course Information
-- **Instructor**: Dr. Yupeng Zhang (zhangyp@tamu.edu)
+- **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
 - **Lectures**: TR 5:30 pm - 6:45 pm, HRBB 113
 - **Office Hour**: 1-2 pm Monday or by appointment, HRBB 414A
 - **TA**: Zhiyong Fang (zhiyong.fang.1997@tamu.edu)
@@ -8,7 +8,6 @@
 ## Course Description
 **Contents:** Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security. 
 
-**Prerequisite:** CSCE 313 and CSCE 315; junior or senior classification; or approval of instructor.
 
 **Textbooks:**
 - (Required) Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
@@ -30,9 +29,6 @@ By the end of this course, students will be able to reason about systems from th
 
 **Final exam:** 250 points
 
-A >= 900 points B = 800-899 points C = 700-799 points D = 600-699 points F = <600 points
-
-**Honors project:** If you are in the CSCE 465 honors section, you have to take this option. If you are in normal sections, you may request this option. Form a team (up to 3 members) to do an honors project, in which you design/implement/evaluate some useful and new attack/defense/system/tool/service/user study, etc. If you take this option, it replaces HW 6 and the final exam. Talk to me ASAP if you want to take this option.
 
 ## Schedule (tentative)
 
@@ -40,10 +36,10 @@ A >= 900 points B = 800-899 points C = 700-799 points D = 600-699 points F = <60
  
   <thead>
     <tr>
-      <th> Week </th>
-      <th> Topic </th>
-      <th> Required Reading</th>
-      <th> Assignment </th>
+      <th width=20%> Week </th>
+      <th width=30%> Topic </th>
+      <th width=50%> Required Reading</th>
+      <th width=30%> Assignment </th>
     </tr>
   </thead>
   
@@ -137,9 +133,6 @@ AlephOne paper </td>
       <td>HW 6 due Thu Apr 23 </td>
     </tr> 
     <tr>
-      <td align="center" colspan="4">15 (<b>NO CLASS</b>)</td>
-    </tr>
-    <tr>
       <td colspan="4"><b>FINAL EXAM</b> See: http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules
 TR 5:30pm has final exam Tuesday May 5 from 3:30pm-5:30pm</td>
     </tr>
@@ -149,7 +142,7 @@ TR 5:30pm has final exam Tuesday May 5 from 3:30pm-5:30pm</td>
 
 
 
-## Useful Links
+## Links
 **Piazza:** https://piazza.com/class/k5ble8wlxibb3
 
 **Assignment Turnin:** https://gradescope.com
