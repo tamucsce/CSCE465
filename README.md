@@ -14,20 +14,6 @@
 
 - (Optional) Handbook of Applied Cryptography – available online at: http://cacr.uwaterloo.ca/hac/
 
-**Course Objectives:**
-This course primarily aims at providing a level of literacy in information security adequate enough to understand the security implications on a number of diverse domains including software engineering; networking; privacy; and policy. 
-
-A secondary objective is to provide a working knowledge of topics such as cryptography, privacy, network security, and infrastructure management, so that students can acquire the necessary background for more advanced security courses. 
-
-By the end of this course, students will be able to reason about systems from the perspective of a security engineer. That is, they should be able to deﬁne the system to protect; determine the security properties that are desired for this system; identify the possible threats to these security properties, and their likelihood of occurrence; and consider possible mitigations against these threats.
-
-
-## Grading
-**Homeworks:** 550 points (distributed across 6 homeworks). Your assignments must be typed and in PDF format. Submit assignment to gradescope (https://www.gradescope.com)
-
-**Midterm exam:** 200 points
-
-**Final exam:** 250 points
 
 
 ## Schedule (tentative)
@@ -139,7 +125,12 @@ TR 5:30pm has final exam Tuesday May 5 from 3:30pm-5:30pm</td>
 
 </table>
 
+## Grading
+**Homeworks:** 550 points (distributed across 6 homeworks). Your assignments must be typed and in PDF format. Submit assignment to gradescope (https://www.gradescope.com)
 
+**Midterm exam:** 200 points
+
+**Final exam:** 250 points
 
 ## Links
 **Piazza:** https://piazza.com/class/k5ble8wlxibb3
@@ -156,5 +147,3 @@ We will study/discuss threats and attacks in the class/lab. You should be fully 
 
 Upon accepting admission to Texas A&M University, a student immediately assumes a commitment to uphold the Honor Code, to accept responsibility for learning, and to follow the philosophy and rules of the Honor System. Students will be required to state their commitment on examinations, research papers, and other academic work. Ignorance of the rules does not exclude any member of the TAMU community from the requirements or the processes of the Honor System.
 
-## Americans with Disabilities Act (ADA) Policy Statement
-The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities. Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. If you believe you have a disability requiring an accommodation, please contact Disability Services, in Cain Hall, Room B118, or call 845-1637. For additional information visit http://disability.tamu.edu.
